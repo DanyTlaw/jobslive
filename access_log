@@ -1,0 +1,7 @@
+207.46.13.85 - - [14/Jun/2016:05:50:24 +0200] "GET / HTTP/1.1" 200 779 "-" "Mozilla/5.0 (iPhone; CPU iPhone OS 7_0 like Mac OS X) AppleWebKit/537.51.1 (KHTML, like Gecko) Version/7.0 Mobile/11A465 Safari/9537.53 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+40.77.167.96 - - [14/Jun/2016:05:50:35 +0200] "GET /robots.txt HTTP/1.1" 404 235 "-" "Mozilla/5.0 (compatible; bingbot/2.0; +http://www.bing.com/bingbot.htm)"
+142.54.167.98 - - [14/Jun/2016:07:46:32 +0200] "GET /wp-login.php HTTP/1.1" 404 1130 "-" "Mozilla/5.0 (compatible; MSIE 9.0; Windows NT 6.1; Trident/5.0)"
+86.132.215.130 - - [14/Jun/2016:14:44:22 +0200] "GET /robots.txt HTTP/1.0" 404 283 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)"
+86.132.215.130 - - [14/Jun/2016:14:44:23 +0200] "GET / HTTP/1.0" 200 2642 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)"
+144.76.61.21 - - [14/Jun/2016:17:00:25 +0200] "GET /robots.txt HTTP/1.0" 404 283 "-" "Mozilla/5.0 (compatible; MJ12bot/v1.4.5; http://www.majestic12.co.uk/bot.php?+)"
+108.168.207.19 - - [14/Jun/2016:19:25:35 +0200] "HEAD / HTTP/1.1" 200 - "-" "Ruby"

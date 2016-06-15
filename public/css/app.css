@@ -1,0 +1,127 @@
+.banner{
+	z-index: 100;
+	position: relative;
+	width: 100%;
+	height: 400px;
+	background-image: url('images/hr-banner.png');
+	margin-bottom: 40px;
+}
+
+.searchtext{
+	z-index: 101;
+	margin-left: 20px;
+	margin-top: 100px; 
+	width:20%;
+}
+
+.searchlabel{
+	color: white;
+	font-family: Arial, Helvetica, sans-serif !important;
+	font-size: 20px;
+
+}
+
+.searchsection{
+	margin-top: 100px;
+	margin-left: 20%;
+	position: absolute;
+	z-index: 101;
+	top: 0;
+	left: 0;
+	width: 35%;
+}
+
+h3{
+	font-size: 16;
+	font-weight: 500;
+
+}
+.jobrubrik{
+	
+}
+
+.jobrubrik p{
+	color: #0047ab;
+}
+
+
+.inserieren{
+	text-align: center;
+	margin-top: 50px; 
+}
+
+.inserieren h1,h2,h3{
+	text-align: center;
+	color: white;
+
+}
+
+.inserieren button{
+
+	margin-top: 30px;
+}
+
+.angeboteText{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.angeboteText h1{
+	text-align: center;
+}
+
+.angeboteText h2{
+	text-align: center;
+	color: #999999;
+}
+
+.angebot{
+	margin-left: 10%;
+	margin-right: 10%;
+
+}
+
+
+
+.angebot-header{
+	background-color: #99ccff;
+	text-transform: capitalize;
+	color:white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.angebot-price{
+	background-color: #77aaff;
+	color:white;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	text-align: center;
+}
+
+.angebot-price p{
+	padding-left: 40px;
+	padding-right: 40px;
+}
+
+.angebotButton{
+	margin-top: 20px;
+	text-align: center;
+}
+
+#footer{
+	background-color: #003366;
+	height: 150px;
+	width: 100%;
+	margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
